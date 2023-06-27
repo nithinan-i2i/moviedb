@@ -1,7 +1,7 @@
 # MovieDB	
 [moviedb.leoirus.in](https://moviedb.leoirus.in)
 
-**MovieDB** is a responsive and intuitive Web Application to find the favourite movies and its details. Built as a mobile-first layout and also has other layouts for Tablets, Desktops and Extra Large screens.
+**MovieDB** is a responsive and intuitive Web Application to find the favourite movies and its details. Built as a mobile-first layout and also has other layouts for Tablets, Desktops and Extra Large screen.
 
 ### Build Stack 
 
